@@ -3933,6 +3933,7 @@ hr {
     padding-left: 0;
     margin-bottom: 0;
     list-style: none;
+    background-color: black;
   }
   
   .nav-link {
